@@ -1,0 +1,13 @@
+Package: pbcf
+Type: Package
+Title: Probit Bayesian Causal Forests
+Version: 1.0.0
+Date: 2019-12-09
+Author: Me
+Maintainer: Questions and comments to <yourfault@somewhere.net>
+Description: Implements Probit Bayesian Causal Forests (pbcf)
+License: GNU GPL v3.0
+Depends: Rcpp (>= 0.10.4), RcppArmadillo
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes
+Suggests: knitr, rmarkdown
